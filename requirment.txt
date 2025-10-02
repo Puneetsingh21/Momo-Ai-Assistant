@@ -1,0 +1,16 @@
+pydantic-ai-slim[openai,mcp]
+livekit-agents[tavus]~=1.0
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-google
+livekit-plugins-noise-cancellation
+mem0ai
+duckduckgo-search
+langchain_community
+requests
+python-dotenv
+fastapi
+uvicorn
+python-dotenv
+livekit
