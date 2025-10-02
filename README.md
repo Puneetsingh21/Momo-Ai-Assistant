@@ -30,18 +30,22 @@ dotenv for environment variables
 
 🚀 Getting Started
 1.)Install dependencies
-
+```bash
 pip install -r requirements.txt
-
+```
 2.)Setup environment variables in .env
 
+```env
 GOOGLE_API_KEY=your_api_key
 LIVEKIT_API_KEY=your_livekit_key
 LIVEKIT_SECRET=your_livekit_secret
+```
 
 
 3.)Run the assistant
 
+```bash
 python agent.py console
+```
 
 
